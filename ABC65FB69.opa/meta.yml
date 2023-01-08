@@ -1,0 +1,22 @@
+id: ABC65FB69
+title: Prayer to Longchenpa (Adapted from the Words of Mipham Rinpoche)
+type: translation
+pechas:
+- I986672C5
+- ICFD64A65
+- I17F2247F
+source_metadata:
+  languages:
+  - en
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:00:06.986411
+  last_modified_at: 2023-01-04 13:00:06.986431
+  collections:
+  - Longchen Rabjam Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I986672C5/1679: E74D
+  ICFD64A65/0C96: E74D
+  I17F2247F/43B4: E74D
